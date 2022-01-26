@@ -10,3 +10,5 @@ Languages Used: HTML, CSS, JavaScript.
 
 The Image displays an already "Generated Password":
 ![The Password Generator application displays an already "Generated Password".](./javascript-homework-03.png)
+
+https://emma4jesus.github.io/Password-Generator-Javascript/
