@@ -1,6 +1,7 @@
 # Javascript-Password-Generator
 
 Password Generator- Work-Home 3
+Deployed app: https://emma4jesus.github.io/Password-Generator-Javascript/
 
 Description: A password is randomly generated based on criteria that the user provides when prompted.
 When the user clicks the button "Generate Password" they are first promoted for password length. If outside the range of 8-126, the user is prompted to once again enter a password length within the range. The prompt will loop until the user enters a valid number.
@@ -11,4 +12,4 @@ Languages Used: HTML, CSS, JavaScript.
 The Image displays an already "Generated Password":
 ![The Password Generator application displays an already "Generated Password".](./javascript-homework-03.png)
 
-https://emma4jesus.github.io/Password-Generator-Javascript/
+
